@@ -1,0 +1,6 @@
+- document migration path from all previous versions to latest version
+
+- {{.}}, {{..}}, {{...}}, {{.name}}, {{..name}}, {{...name}}, {{ROOT}}, {{ROOT.name}}
+
+- test mustacheTag:didRenderObject:as:
+- test mustacheTag:didFailRenderingObject:withError:
